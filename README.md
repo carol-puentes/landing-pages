@@ -33,6 +33,7 @@ Antes de ejecutar el proyecto, recuerda instalar las dependencias necesarias:
 
 
 ```sh
+rm -rf node_modules package-lock.json
 npm install
 npm install styled-components
 npm install react-router
