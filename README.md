@@ -2,7 +2,7 @@
 
 Este es un proyecto de una página web para una tienda de comida rápida que ofrece empanadas, pasteles, arepas y Juan Valerios. La landing page permite visualizar el menú con la descripción de sus productos y cuenta con diversas integraciones para mejorar la experiencia del usuario.
 
-<h1> ✨ Características </h1>
+<h1> ✨ CARACTERÍSTICAS </h1>
 <ul>
   <li>
     ⚛️ Desarrollado con React para una experiencia rápida y dinámica.
@@ -37,5 +37,9 @@ rm -rf node_modules package-lock.json
 npm install
 npm install styled-components
 npm install react-router
+```
+<h1> PROTOTIPO </h1>
+https://www.figma.com/proto/0zuTHshmrfLh3tnXEzON9Y/MockUp?node-id=14-21&t=W1kAloPfiWzrDrhO-1
+
 
 
