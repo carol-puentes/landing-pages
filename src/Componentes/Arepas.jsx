@@ -1,7 +1,7 @@
 import Landing_arepas from "./Landing_arepas"
 import Products_Arepas from "./Products_Arepas"
 import Headboard_a from "./Headboard_a"
-import Footer from "./Footer"
+import Footer from "./footer"
 import Nav2 from "./Nav2"
 import Landing_page from "./Landing_page"
 
