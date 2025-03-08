@@ -1,6 +1,6 @@
 import gaseosa from '../img/bebida.jpg'
 import empanada from '../img/empanadas.jpeg'
-import fondo from '../img/fondo.jpg'
+import fondo from '../img/fondo.JPG'
 import '../css/main.css'
 const Carrusel=()=>{
     return(
